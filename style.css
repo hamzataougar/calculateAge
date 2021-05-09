@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
  body{
-     background-color: #0a6cf1;
+     background-color: #EC4D37;
  }
 
  .container{
@@ -22,7 +22,7 @@
      outline: none;
  }
 .inputs-wrapper{
-    background-color: #080808;
+    background-color: #1D1B1B;
     padding: 30px 25px;
     border-radius: 8px;
     box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
@@ -31,7 +31,7 @@
 input,button{
     height: 50px;
     background-color: white;
-    color: #080808;
+    color: #1D1B1B;
     font-weight: 500;
     border-radius: 5px;
 }
@@ -55,7 +55,7 @@ button{
 .outputs-wrapper div{
     height: 100px;
     width: 100px;
-    background-color: black; 
+    background-color: 1D1B1B; 
     border-radius: 5px;
     color: #fff;
     display: grid;
@@ -69,6 +69,6 @@ span{
 }
 p{
     font-size: 14px;
-    color: #707070;
-    font-weight: 400;
+    color: #1D1B1B;
+    font-weight: bold;
 }
